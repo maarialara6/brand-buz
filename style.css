@@ -16,6 +16,8 @@
 body {
   line-height: 1.6;
   color: var(--dark-color);
+  background-image: url(./img/bg.png);
+  background-repeat: no-repeat;
 }
 
 .cabecalho {
